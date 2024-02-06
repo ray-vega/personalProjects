@@ -16,4 +16,6 @@ function secondLargesNumber(numbers) {
 }
 let nums = [8,4,6,10,9,11]
 
+//Nota de prueba
+
 console.log(secondLargesNumber(nums))
